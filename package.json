@@ -1,0 +1,19 @@
+{
+  "name": "gen_ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^1.1.48",
+    "@langchain/mistralai": "^1.1.0",
+    "dotenv": "^17.4.2",
+    "readline-sync": "^1.4.10"
+  }
+}
